@@ -338,6 +338,11 @@ h2{
 .logo:hover{
 transform: scale(1.1);
 }
+@media (max-width:1114px) {
+  .column6{
+    font-size: 15px !important;
+  }
+}
 .hello{
   width: 65px !important;
 }
