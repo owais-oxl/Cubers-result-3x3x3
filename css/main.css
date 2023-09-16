@@ -346,3 +346,11 @@ transform: scale(1.1);
 .hello{
   width: 65px !important;
 }
+@media (max-width:1114px) {
+  .column6{
+    font-size: 15px !important;
+  }
+}
+.small{
+  font-size: 15px !important;
+}
